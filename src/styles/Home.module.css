@@ -2,6 +2,11 @@
   padding: 0 2rem;
 }
 
+.link {
+  margin: 0.5em;
+  text-decoration: underline;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
