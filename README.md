@@ -1,3 +1,8 @@
+💡 [Notion Page](https://www.notion.so/oysterhr/Next-js-With-React-Router-1cb3be8d403446dcab3732d199a047dd)
+
+
+------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
