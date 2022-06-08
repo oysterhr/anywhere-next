@@ -6,9 +6,14 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+nav {
+  margin-top: 0.5rem;
+}
+
 a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
+  padding: 1rem;
 }
 
 * {
